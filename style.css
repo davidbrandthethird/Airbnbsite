@@ -144,7 +144,9 @@ color: #DD3B30;
 }
   
   .hero-link-div {
-    text-align: center;
+    display:block;
+  margin-left: auto;
+  margin-right: auto;
   }
 
 .hero-image {
