@@ -148,8 +148,7 @@ color: #DD3B30;
   }
 
 .hero-link {
-  text-align: center;
-  margin: auto;
+  padding-left: 20%;
 }
 
 .hero-image {
