@@ -142,9 +142,13 @@ color: #DD3B30;
   margin: auto;
   padding-top: 50px;
 }
+  
+  .hero-link-div {
+    text-align: center;
+  }
 
 .hero-link {
-  display:hidden;
+  
 }
 
 .hero-image {
