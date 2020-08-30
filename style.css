@@ -144,10 +144,7 @@ color: #DD3B30;
 }
 
 .hero-link {
-  display:inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 40px;
+  display:hidden;
 }
 
 .hero-image {
